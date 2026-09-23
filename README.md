@@ -95,7 +95,16 @@ Consignments are initially prepared as drafts, allowing the transaction to be re
 
 ### Reporting
 
-Screenshot coming soon.
+The Reporting module provides operational and financial visibility across the store through structured, export-ready reports.
+
+The Inventory Report summarizes key metrics such as total products, total units on hand, inventory cost valuation, potential selling value, and gross margin. Detailed product-level information includes brand, category, quantity, cost, distributor price, selling price, cost value, and current product status.
+
+Reports can be filtered to focus on relevant data and are displayed directly within the application for review. Users can also download reports as PDF files for sharing, record keeping, or offline analysis.
+
+The reporting interface is designed to give administrators a clear view of inventory performance while keeping the underlying calculations consistent with the Store API and current store data.
+
+<img width="1093" height="733" alt="inventory-reports" src="https://github.com/user-attachments/assets/572f3868-6fa9-4a4f-88bc-c4659db8fb0c" />
+
 
 ### Mobile Administration
 
