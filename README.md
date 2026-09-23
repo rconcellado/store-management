@@ -119,10 +119,6 @@ This role-based permission model helps enforce least-privilege access, keeps res
 <img width="898" height="825" alt="role-access" src="https://github.com/user-attachments/assets/614c3efb-e007-4545-8e67-20911f53aca8" />
 
 
-### Storefront
-
-Screenshot coming soon.
-
 ## Project Type
 
 Freelance / Portfolio Project
