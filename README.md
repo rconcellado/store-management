@@ -82,7 +82,16 @@ The module also calculates the running subtotal and total amount due, while allo
 
 ### Consignment Management
 
-Screenshot coming soon.
+The Consignment Management module provides a structured workflow for releasing products to distributors while keeping product selection, partner details, and consigned items visible on a single screen.
+
+Users can search and filter products by brand, category, and item type, review available stock and distributor pricing, and add selected products to the consignment release. The transaction panel allows staff to select the active distributor, specify an optional due date, and record remarks or handling instructions.
+
+Selected products appear in a dedicated released-items panel where quantities can be adjusted or removed before the consignment is finalized. The system automatically calculates the total consignment value based on the applicable distributor pricing.
+
+Consignments are initially prepared as drafts, allowing the transaction to be reviewed before confirmation. Inventory remains unaffected during draft preparation and is only updated once the consignment is formally confirmed, helping maintain accurate stock control and a clear transaction workflow.
+
+<img width="1335" height="781" alt="consignment screen" src="https://github.com/user-attachments/assets/95868af2-ba6a-4872-b5d2-698d7af6be95" />
+
 
 ### Reporting
 
