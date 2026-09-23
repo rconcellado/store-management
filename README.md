@@ -41,6 +41,33 @@ The platform is designed as an integrated system consisting of:
 - IIS
 - CI/CD
 
+## CI/CD and Deployment
+
+The Store Management application uses an automated CI/CD workflow to improve deployment consistency and reduce manual errors.
+
+### Pipeline Capabilities
+
+- Builds and validates the .NET solution before deployment.
+- Runs automated unit and regression tests as part of the pipeline.
+- Builds the Blazor Admin Web application, including Tailwind CSS assets.
+- Publishes the Store API and Admin Web applications for IIS hosting.
+- Maintains separate UAT and Production deployment environments.
+- Uses environment-specific application configuration for API endpoints, database connections, authentication, CORS, and other settings.
+- Preserves runtime content such as uploaded product images during deployments.
+- Prevents deployment from continuing when build or automated test validation fails.
+- Includes post-deployment verification of the deployed application and API endpoints.
+
+### Deployment Architecture
+
+- **Backend:** ASP.NET Core / .NET 10 API hosted in IIS
+- **Admin Web:** Blazor Server hosted in IIS
+- **Admin Mobile:** Flutter application consuming the same Store API
+- **Storefront:** Next.js application consuming the Store API
+- **Database:** SQL Server with Entity Framework Core
+- **Environments:** Separate UAT and Production configurations
+
+The CI/CD process is designed to provide repeatable deployments while ensuring that application builds, automated tests, environment configuration, and runtime assets are validated before a release reaches Production.
+
 ## My Role
 
 I designed and developed major parts of the platform, including:
