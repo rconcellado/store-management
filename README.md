@@ -69,9 +69,16 @@ The module is built with maintainability and scalability in mind, allowing addit
 <img width="1069" height="823" alt="product-management" src="https://github.com/user-attachments/assets/17cb66d1-2756-4ac6-a0cb-d6a9250cefc1" />
 
 
-### Sales Management
+### Point of Sale
 
-Screenshot coming soon.
+The Point of Sale module provides a streamlined interface for processing walk-in sales efficiently. Products can be quickly located using search, brand, category, and item filters, then added directly to the current order without leaving the sales screen.
+
+The interface displays product images, pricing, available stock, and low-stock indicators to help staff make informed decisions during checkout. Selected items are managed in a real-time order panel where quantities can be adjusted, items removed, and transaction remarks recorded.
+
+The module also calculates the running subtotal and total amount due, while allowing transactions to be saved as drafts or continued to the payment process. The layout is optimized for fast cashier workflows, minimizing unnecessary navigation and keeping product selection and order management on a single screen.
+
+<img width="1321" height="823" alt="point-of-sale" src="https://github.com/user-attachments/assets/6002b3ba-da99-40be-bd88-f4cbd2ff4cec" />
+
 
 ### Consignment Management
 
