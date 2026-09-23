@@ -58,7 +58,7 @@ I designed and developed major parts of the platform, including:
 
 ## Screenshots
 
-### Product Catalog
+### Products Catalog
 
 The Product Catalog provides a centralized interface for managing store products and their core information. It is designed to make product maintenance fast, organized, and easy to use from a desktop environment.
 
