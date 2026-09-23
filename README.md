@@ -106,9 +106,18 @@ The reporting interface is designed to give administrators a clear view of inven
 <img width="1093" height="733" alt="inventory-reports" src="https://github.com/user-attachments/assets/572f3868-6fa9-4a4f-88bc-c4659db8fb0c" />
 
 
-### Mobile Administration
+### Role Access
 
-Screenshot coming soon.
+The Role Access module provides centralized control over what each user role can view and manage within the Store Administration system.
+
+Administrators can select a role and configure permissions across major functional areas such as Products, Catalog, Customers, Consignments, Cash Remittance, Dashboard, and other administrative modules. Permissions are defined at the action level, allowing access to be controlled separately for capabilities such as viewing, creating, editing, managing, confirming, or cancelling records.
+
+The interface groups permissions by module to keep access rules easy to review and maintain. Changes can be applied to the selected role without modifying the underlying application workflow.
+
+This role-based permission model helps enforce least-privilege access, keeps responsibilities clearly separated between administrators, managers, and staff, and makes the system easier to maintain as new modules and actions are introduced.
+
+<img width="898" height="825" alt="role-access" src="https://github.com/user-attachments/assets/614c3efb-e007-4545-8e67-20911f53aca8" />
+
 
 ### Storefront
 
