@@ -105,9 +105,6 @@ The reporting interface is designed to give administrators a clear view of inven
 
 <img width="1093" height="733" alt="inventory-reports" src="https://github.com/user-attachments/assets/572f3868-6fa9-4a4f-88bc-c4659db8fb0c" />
 
-<img width="684" height="416" alt="reports-filter" src="https://github.com/user-attachments/assets/bec945b9-aa5c-4bfb-a58d-4e85d7b186ac" />
-
-
 
 ### Mobile Administration
 
