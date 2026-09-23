@@ -58,7 +58,13 @@ I designed and developed major parts of the platform, including:
 
 ## Screenshots
 
-### Product Management
+### Product Catalog
+
+The Product Catalog provides a centralized interface for managing store products and their core information. It is designed to make product maintenance fast, organized, and easy to use from a desktop environment.
+
+Key capabilities include managing product names, categories, brands, sizes, pricing, product images, and other product-related details. The catalog also supports searching, filtering, sorting, and reviewing products efficiently, making it easier to maintain an accurate and consistent product inventory.
+
+The module is built with maintainability and scalability in mind, allowing additional product attributes and business rules to be introduced as the system continues to evolve.
 
 <img width="1069" height="823" alt="product-management" src="https://github.com/user-attachments/assets/17cb66d1-2756-4ac6-a0cb-d6a9250cefc1" />
 
