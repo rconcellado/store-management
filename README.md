@@ -60,7 +60,8 @@ I designed and developed major parts of the platform, including:
 
 ### Product Management
 
-Screenshot coming soon.
+<img width="1069" height="823" alt="product-management" src="https://github.com/user-attachments/assets/17cb66d1-2756-4ac6-a0cb-d6a9250cefc1" />
+
 
 ### Sales Management
 
