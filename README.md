@@ -44,8 +44,6 @@ inventory, customers, distributors, consignments, receivables, and payments.
 
 ### Entity Relationship Diagram
 
-<img width="2846" height="1787" alt="RV Store Entity Relationship Diagram" src="https://github.com/user-attachments/assets/ea0893f5-fc22-43e6-b91b-ea1d2532da35" />
-
 ## CI/CD and Deployment
 
 The Store Management application uses an automated CI/CD workflow to improve deployment consistency and reduce manual errors.
