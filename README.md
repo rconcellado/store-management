@@ -9,6 +9,22 @@ The platform is designed as an integrated system consisting of:
 - Backend REST API
 - Customer storefront
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Technology Stack](#technology-stack)
+- [Database Design](#database-design)
+- [Process Flows](#process-flows)
+  - [Point of Sale](#point-of-sale)
+  - [Consignment](#consignment)
+  - [Consignment Settlement](#consignment-settlement)
+- [CI/CD and Deployment](#cicd-and-deployment)
+- [My Role](#my-role)
+- [Screenshots](#screenshots)
+- [Project Type](#project-type)
+- [Source Code](#source-code)
+
 ## Key Features
 
 - Product and category management
