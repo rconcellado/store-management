@@ -50,7 +50,8 @@ inventory, customers, distributors, consignments, receivables, and payments.
 
 ### Point of Sale
 
-<img width="4191" height="7147" alt="RV Store POS Process Flow" src="https://github.com/user-attachments/assets/26cb8682-68ee-4f8e-a2ca-fae0f39486c5" />
+<img width="1270" height="1521" alt="Process Flow" src="https://github.com/user-attachments/assets/460eec84-0354-4772-bc10-df7d532ee8d9" />
+
 
 
 ## CI/CD and Deployment
