@@ -46,6 +46,12 @@ inventory, customers, distributors, consignments, receivables, and payments.
 
 <img width="2846" height="1787" alt="RV Store Entity Relationship Diagram" src="https://github.com/user-attachments/assets/ea0893f5-fc22-43e6-b91b-ea1d2532da35" />
 
+## Process Flows
+
+### Point of Sale
+
+<img width="4191" height="7147" alt="RV Store POS Process Flow" src="https://github.com/user-attachments/assets/26cb8682-68ee-4f8e-a2ca-fae0f39486c5" />
+
 
 ## CI/CD and Deployment
 
