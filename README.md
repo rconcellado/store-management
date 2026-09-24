@@ -73,7 +73,8 @@ The Consignment Settlement process records the quantities sold by the distributo
 The user selects the open consignment and enters the quantity sold for each item. The system calculates the settlement amount based on the sold quantities and records the corresponding settlement details.
 If the distributor pays the full amount, the settlement is completed. If there is an outstanding balance, the system creates or updates an Accounts Receivable record and tracks subsequent payments until the balance is fully settled.
 
-<img width="994" height="960" alt="RV Store Consignment Settlement Process Flow  (1)" src="https://github.com/user-attachments/assets/41c41a9f-f4ce-468f-b787-19fb2d388e8f" />
+<img width="906" height="960" alt="RV Store Consignment Settlement Process Flow  (2)" src="https://github.com/user-attachments/assets/a2d00343-30a9-4993-907e-e135f2a7e7a5" />
+
 
 
 
