@@ -63,7 +63,8 @@ The Consignment process handles products issued to distributors for resale. The 
 During settlement, the user records the quantity sold for each consigned item. The system calculates the amount due based on the sold quantities and determines whether the distributor pays in full or leaves an outstanding balance.
 If payment is incomplete, the system creates or updates an Accounts Receivable record and tracks subsequent payments until the consignment is fully settled.
 
-<img width="932" height="1061" alt="RV Store Consignment Process Flow" src="https://github.com/user-attachments/assets/fe85e483-f13c-4820-adfe-0ba27c249b18" />
+<img width="1040" height="1120" alt="RV Store Consignment Process Flow" src="https://github.com/user-attachments/assets/01742c69-4b4e-4afc-b3d7-db4b4adb1441" />
+
 
 
 ### Consignment Settlement
