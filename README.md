@@ -56,6 +56,7 @@ Each completed sale also updates product inventory by reducing the quantity base
 
 <img width="1270" height="1521" alt="Process Flow" src="https://github.com/user-attachments/assets/460eec84-0354-4772-bc10-df7d532ee8d9" />
 
+
 ### Consignment
 
 The Consignment process handles products issued to distributors for resale. The user selects a distributor, creates a consignment, adds products and quantities, and the system records the consignment items while reducing the corresponding product inventory.
@@ -64,7 +65,8 @@ If payment is incomplete, the system creates or updates an Accounts Receivable r
 
 <img width="932" height="1061" alt="RV Store Consignment Process Flow" src="https://github.com/user-attachments/assets/fe85e483-f13c-4820-adfe-0ba27c249b18" />
 
-Consignment Settlement
+
+### Consignment Settlement
 
 The Consignment Settlement process records the quantities sold by the distributor and calculates the amount due for the consigned items.
 The user selects the open consignment and enters the quantity sold for each item. The system calculates the settlement amount based on the sold quantities and records the corresponding settlement details.
