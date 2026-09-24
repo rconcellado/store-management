@@ -50,13 +50,25 @@ inventory, customers, distributors, consignments, receivables, and payments.
 
 ### Point of Sale
 
+The Point of Sale process handles direct sales to both regular and walk-in customers. The user selects or creates the customer, adds products to the sale, and the system calculates the transaction total including applicable taxes and discounts.
+For immediate payments, the sale is completed and recorded as paid. For credit transactions, the system creates an Accounts Receivable record and tracks subsequent receivable payments until the balance is fully settled.
+Each completed sale also updates product inventory by reducing the quantity based on the items sold.
+
 <img width="1270" height="1521" alt="Process Flow" src="https://github.com/user-attachments/assets/460eec84-0354-4772-bc10-df7d532ee8d9" />
 
 ### Consignment
 
+The Consignment process handles products issued to distributors for resale. The user selects a distributor, creates a consignment, adds products and quantities, and the system records the consignment items while reducing the corresponding product inventory.
+During settlement, the user records the quantity sold for each consigned item. The system calculates the amount due based on the sold quantities and determines whether the distributor pays in full or leaves an outstanding balance.
+If payment is incomplete, the system creates or updates an Accounts Receivable record and tracks subsequent payments until the consignment is fully settled.
+
 <img width="932" height="1061" alt="RV Store Consignment Process Flow" src="https://github.com/user-attachments/assets/fe85e483-f13c-4820-adfe-0ba27c249b18" />
 
 Consignment Settlement
+
+The Consignment Settlement process records the quantities sold by the distributor and calculates the amount due for the consigned items.
+The user selects the open consignment and enters the quantity sold for each item. The system calculates the settlement amount based on the sold quantities and records the corresponding settlement details.
+If the distributor pays the full amount, the settlement is completed. If there is an outstanding balance, the system creates or updates an Accounts Receivable record and tracks subsequent payments until the balance is fully settled.
 
 <img width="994" height="960" alt="RV Store Consignment Settlement Process Flow  (1)" src="https://github.com/user-attachments/assets/41c41a9f-f4ce-468f-b787-19fb2d388e8f" />
 
