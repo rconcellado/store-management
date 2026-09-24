@@ -56,6 +56,10 @@ inventory, customers, distributors, consignments, receivables, and payments.
 
 <img width="932" height="1061" alt="RV Store Consignment Process Flow" src="https://github.com/user-attachments/assets/fe85e483-f13c-4820-adfe-0ba27c249b18" />
 
+Consignment Settlement
+
+<img width="860" height="880" alt="RV Store Consignment Settlement Process Flow " src="https://github.com/user-attachments/assets/efedea23-5171-4d84-8b6b-fafcd48c57b6" />
+
 
 
 ## CI/CD and Deployment
